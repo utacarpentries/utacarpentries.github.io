@@ -19,6 +19,7 @@ scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';     
 <script src="https://public.tableau.com/javascripts/api/viz_v1.js"></script>
 <div id="tableauViz"></div>
 
+```
 function initializeViz() {
   // JS object that points at empty div in the html
   var placeholderDiv = document.getElementById("tableauViz");
@@ -33,3 +34,4 @@ function initializeViz() {
   };
   viz = new tableau.Viz(placeholderDiv, url, options);
 }
+```
