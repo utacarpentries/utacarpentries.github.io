@@ -16,3 +16,20 @@ var scriptElement = document.createElement('script');
 scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);    
 </script>
 
+<script src="https://public.tableau.com/javascripts/api/viz_v1.js"></script>
+<div id="tableauViz"></div>
+
+function initializeViz() {
+  // JS object that points at empty div in the html
+  var placeholderDiv = document.getElementById("tableauViz");
+  // URL of the viz to be embedded
+  var url = "http://public.tableau.com/views/WorldIndicators/GDPpercapita";
+  // An object that contains options specifying how to embed the viz
+  var options = {
+    width: '600px',
+    height: '600px',
+    hideTabs: true,
+    hideToolbar: true,
+  };
+  viz = new tableau.Viz(placeholderDiv, url, options);
+}
