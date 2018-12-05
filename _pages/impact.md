@@ -2,6 +2,7 @@
 layout: single
 permalink: /impact/
 title: Impact
+classes: wide
 ---
 
 
