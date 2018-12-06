@@ -11,7 +11,7 @@ Our main activity is teaching [Software](https://software-carpentry.org/) and [D
 
 Most workshops use lesson materials from the Carpentries. These are designed to
 provide novice users with a foundation to continue learning on their own,
-with their peers, or more formally in coursework. As part of the UF community, 
+with their peers, or more formally in coursework. As part of the UTA community, 
 we also strive to connect our learners with other opportunites for learning 
 programming and data analysis on campus.
 
@@ -22,10 +22,10 @@ also monitor our site here or join our [email list](https://groups.google.com/fo
 ## Typical Lessons
 
 * [Software Carpenty Lessons](https://software-carpentry.org/lessons/)
-* [Instructor Training](https://carpentries.github.io/instructor-training/)
+<!-- * [Instructor Training](https://carpentries.github.io/instructor-training/) -->
 
 ## Venue
 
 The [UTA Library](https://library.uta.edu/) generously supports
-our workshops by providing financial and logistical support and by allowing 
+our workshops by allowing 
 us to use their 6th floor events area.
