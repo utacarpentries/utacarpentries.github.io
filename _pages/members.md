@@ -14,15 +14,17 @@ toc_sticky: true
 
 ## Current Instructors
 
-* Richard Adams
 * [Daren Card](https://www.darencard.net)
-* Joe Cloud
-* Peace Ossom-Williamson
-* Adnan Qureshi
+* Anna Williford
+* James Titus-McQuillan
 * Balan Ramesh
 * Farah Shamma
-* James Titus-McQuillan
-* Anna Williford
+* Adnan Qureshi
+* Joe Cloud
+* Peace Ossom-Williamson
+* Richard Adams
+* Nitin Kanwar
+* Richard Adams
 
 ## Previous Instructors
 
@@ -30,17 +32,16 @@ toc_sticky: true
 * Gaurav Kolekar
 * Devendra Umbrajkar
 * Kevin Vilbig
+* Jees Augustine
+* Mehdi Eslamieh
+* Nick Long
 
 ## Helpers
 
 * Audra Andrew
-* Jees Augustine
 * Omar Bibi
-* Mehdi Eslamieh
 * Nicky Hales
-* Nitin Kanwar
 * Malini Kotak
-* Nick Long
 * Ayda Mirsalehi
 * Raisa Mustafi
 * Sailee Pawar
