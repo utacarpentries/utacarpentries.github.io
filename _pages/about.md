@@ -24,7 +24,7 @@ classes: wide
 
 ## Mission Statement
 
-UTA Carpentries  is a group of independent members of the University of Texas, Arlington community dedicated to providing structured pathways for our colleagues to learn informatics skills outside of the traditional university curriculum. UTA Carpentries is open to any member of the UTA community including staff, faculty, and students, paid, and volunteer. In addition to our core informatics goal, we seek to bring the Carpentries’ teaching methods to instructors and to develop a research community dedicated to open and reproducible science.
+UTA Carpentries  is a group of independent members of the University of Texas at Arlington community dedicated to providing structured pathways for our colleagues to learn computational skills outside of the traditional university curriculum. UTA Carpentries is open to any member of the UTA community including staff, faculty, and students. In addition to our core computational content, we seek to bring the Carpentries’ teaching methods to instructors and to develop a research community dedicated to open and reproducible science.
 
 ## Code of Conduct
 
