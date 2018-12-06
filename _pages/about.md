@@ -32,7 +32,9 @@ We follow the [Carpentries’ Code of Conduct](https://docs.carpentries.org/topi
 
 ## Support
 
-UTA Carpentry activities are currently supported by:
+UTA Carpentry activities are currently sponsored by:
 
 * [UTA Library](https://library.uta.edu/)
+* [College of Science](https://www.uta.edu/science/)
+* [College of Engineering](https://www.uta.edu/engineering/)
 
