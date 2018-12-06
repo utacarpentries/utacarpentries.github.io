@@ -8,7 +8,7 @@ Contact our organization at [uta.carpentries@gmail.com](mailto:uta.carpentries@g
 
 Follow us on [Twitter](https://twitter.com/UTAcarpentries) for announcements and live-tweets of events.
 
-View our current work in our [Github repository](https://github.com/utacarpentries).
+<!-- View our current work in our [Github repository](https://github.com/utacarpentries). -->
 
 Join our [email list](https://groups.google.com/forum/#!forum/uta-carpentries) to stay informed about upcoming workshops.
 
