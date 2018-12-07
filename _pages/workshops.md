@@ -26,6 +26,4 @@ also monitor our site here or join our [email list](https://groups.google.com/fo
 
 ## Venue
 
-The [UTA Library](https://library.uta.edu/) generously supports
-our workshops by allowing 
-us to use their 6th floor events area.
+Main UTA library, 6th floor.
