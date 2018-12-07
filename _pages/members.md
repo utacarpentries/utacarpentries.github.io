@@ -24,7 +24,6 @@ toc_sticky: true
 * Peace Ossom-Williamson
 * Richard Adams
 * Nitin Kanwar
-* Richard Adams
 
 ## Previous Instructors
 
