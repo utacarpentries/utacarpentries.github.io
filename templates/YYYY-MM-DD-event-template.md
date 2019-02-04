@@ -1,5 +1,5 @@
 ---
-title: "Softare Carpentry"
+title: "Software Carpentry"
 layout: single
 menu: "main"
 start: 2018-09-23 09:00:00 EST
