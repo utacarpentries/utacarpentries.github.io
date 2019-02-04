@@ -1,5 +1,5 @@
 ---
-title: "Softare Carpentry - Python"
+title: "Software Carpentry - Python"
 layout: single
 menu: "main"
 start: 2018-02-24 09:00:00 CST
