@@ -14,7 +14,7 @@ toc_sticky: true
 
 ## Current Instructors
 
-* [Daren Card](https://www.darencard.net)
+* Ayda Mirsalehi
 * Anna Williford
 * James Titus-McQuillan
 * Balan Ramesh
@@ -27,6 +27,7 @@ toc_sticky: true
 
 ## Previous Instructors
 
+* [Daren Card](https://www.darencard.net)
 * Heath Blackmon
 * Gaurav Kolekar
 * Devendra Umbrajkar
@@ -41,6 +42,5 @@ toc_sticky: true
 * Omar Bibi
 * Nicky Hales
 * Malini Kotak
-* Ayda Mirsalehi
 * Raisa Mustafi
 * Sailee Pawar
