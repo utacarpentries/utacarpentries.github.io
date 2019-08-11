@@ -44,6 +44,7 @@ it be a static list.
 <a href="{{ event.website }}">{{ event.start | date: "%b %-d" }} - {{ event.end | date: "%b %-d" }}: {{ event.title }}</a> <br />
         {{ event.location }} <br />
         <small>{{ event.topics }}</small>
+        <small>{{ event.lessons }}</small>
         {% include archive-single.html type=page.entries_layout %}
       {% endif %}
       {% endfor %}
