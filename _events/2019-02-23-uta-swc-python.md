@@ -1,5 +1,5 @@
 ---
-title: "Software Carpentry - Python!"
+title: "Software Carpentry - Python"
 layout: single
 menu: "main"
 start: 2019-02-23 09:00:00 CST
