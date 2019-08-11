@@ -1,6 +1,6 @@
 ---
 title: "Software Carpentry - Python"
-layout: events
+layout: single
 menu: "main"
 start: 2019-02-23 09:00:00 CST
 end: 2019-02-24 16:30:00 CST
