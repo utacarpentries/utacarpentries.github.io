@@ -8,10 +8,8 @@ location: "UTA Library 6th Floor Atrium"
 website: "https://utacarpentries.github.io/2019-02-23-UTA/"
 lessonsURL: "https://github.com/uta-carpentries/SWC_spring2019_lessons/"
 topics: "* The Unix Shell \n* Version Control with Git * Programming in Python *"
-
 notes: "Our Lessons"
-
 ---
 
-### Welcome to our workshop!
+Welcome to our workshop!
 
