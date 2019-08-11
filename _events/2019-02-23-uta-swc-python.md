@@ -10,4 +10,5 @@ topics: "* The Unix Shell \n* Version Control with Git * Programming in Python *
 ---
 
 <a href="https://github.com/uta-carpentries/SWC_spring2019_lessons/">Lesson materials</a>
-[Lesson materials](https://github.com/uta-carpentries/SWC_spring2019_lessons/)
+
+
