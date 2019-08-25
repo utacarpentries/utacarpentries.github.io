@@ -16,14 +16,14 @@ toc_sticky: true
 
 * Ayda Mirsalehi
 * Anna Williford
-* James Titus-McQuillan
 * Balan Ramesh
 * Farah Shamma
 * Adnan Qureshi
 * Joe Cloud
 * Peace Ossom-Williamson
-* Richard Adams
-* Nitin Kanwar
+* Kristopher Row
+* Feroz Ahmed
+
 
 ## Previous Instructors
 
@@ -35,12 +35,20 @@ toc_sticky: true
 * Jees Augustine
 * Mehdi Eslamieh
 * Nick Long
+* Richard Adams
+* Nitin Kanwar
+* James Titus-McQuillan
 
 ## Helpers
 
+* Ebrahim Bharmal
+* Isaac Williams
+* Hammad Khan
+* Arnav Bajwa
 * Audra Andrew
 * Omar Bibi
 * Nicky Hales
+* Robert Ruggiero
 * Malini Kotak
 * Raisa Mustafi
 * Sailee Pawar
