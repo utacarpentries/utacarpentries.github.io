@@ -12,7 +12,7 @@ toc_sticky: true
 
 <!--[Previous board members]({{ site.baseurl }}/prior_board/)-->
 
-## Current Instructors
+## Current Instructors and Helpers
 
 * Ayda Mirsalehi
 * Anna Williford
@@ -23,9 +23,14 @@ toc_sticky: true
 * Peace Ossom-Williamson
 * Kristopher Row
 * Feroz Ahmed
+* Ebrahim Bharmal
+* Isaac Williams
+* Hammad Khan
+* Arnav Bajwa
+* Nicky Hales
 
 
-## Previous Instructors
+## Previous Instructors and Helpers
 
 * [Daren Card](https://www.darencard.net)
 * Heath Blackmon
@@ -38,16 +43,8 @@ toc_sticky: true
 * Richard Adams
 * Nitin Kanwar
 * James Titus-McQuillan
-
-## Helpers
-
-* Ebrahim Bharmal
-* Isaac Williams
-* Hammad Khan
-* Arnav Bajwa
 * Audra Andrew
 * Omar Bibi
-* Nicky Hales
 * Robert Ruggiero
 * Malini Kotak
 * Raisa Mustafi
